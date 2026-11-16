@@ -46,7 +46,6 @@ Lesson files are stored in the repository root. Open any `.ipynb` file in Jupyte
 
 The repository does not include a shared dependency file. Most introductory lessons use the Python standard library; some later examples use third-party packages such as `requests`, `numpy`, `rich`, `pytest`, and `pydantic`. Install a package in the active notebook environment if a lesson requires it.
 
-There are two Lesson 04 files: `Lesson 04 - Strings & Type Casting.ipynb` and `Lesson 04 - Strings & Type Casting(1).ipynb`. Their cell sources are identical; either file can be used.
 
 ## Working with the lessons
 
